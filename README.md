@@ -1,10 +1,10 @@
 <br />
 
-<b>Product Designer</b>
+<b>Product Design / Web Front-end</b>
 
 <br />
 
-- ![WEBA](http://www.google.com/s2/favicons?domain=hira.page) [Portfolio / Blog Page](https://hira.page)
+- ![WEBA](http://www.google.com/s2/favicons?domain=hira.page) [Portfolio & Blog](https://hira.page)
 - ![WEBA](http://www.google.com/s2/favicons?domain=twitter.com) [Twitter](https://twitter.com/psephopaiktes)
 
 
